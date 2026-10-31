@@ -1,5 +1,5 @@
 import streamlit as st
-from MedicineGen import get_recommendation
+from medicalassistant import get_recommendation
  
 st.title("Medicine Recommendation System")
  
